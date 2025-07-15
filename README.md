@@ -107,7 +107,7 @@ Get your NEXT_PUBLIC_NEON_DATABASE_URL from here [NeonDB](https://neon.com/)
 ## Demo Video
 Here's the demo video for this project: 
 <br> 
-[![IMAGE ALT TEXT HERE]()]()
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ccPVYb-SyBk/0.jpg)](https://www.youtube.com/watch?v=ccPVYb-SyBk)
 
 ## Pitch Video
 Here's the pitch video about what & why you should try to use this project:
